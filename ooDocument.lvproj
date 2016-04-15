@@ -20,7 +20,11 @@
 			<Item Name="DrawTextBox_Create.vi" Type="VI" URL="../AODL/DrawTextBox/DrawTextBox_Create.vi"/>
 			<Item Name="List of Font Families.vi" Type="VI" URL="../AODL/List of Font Families.vi"/>
 			<Item Name="TextDocument_GetStyleByName.vi" Type="VI" URL="../AODL/Document/TextDocument_GetStyleByName.vi"/>
+			<Item Name="TextDocument_GetCommonStyles.vi" Type="VI" URL="../AODL/Document/TextDocument_GetCommonStyles.vi"/>
 			<Item Name="Document_CreateNewParagraphStyle.vi" Type="VI" URL="../AODL/Document/Document_CreateNewParagraphStyle.vi"/>
+			<Item Name="Document_GetCommonStyles.vi" Type="VI" URL="../AODL/Document/Document_GetCommonStyles.vi"/>
+			<Item Name="Document_GetStyleByName.vi" Type="VI" URL="../AODL/Document/Document_GetStyleByName.vi"/>
+			<Item Name="Style_IsParagraphStyle.vi" Type="VI" URL="../AODL/Style/Style_IsParagraphStyle.vi"/>
 		</Item>
 		<Item Name="ooWriter.lvclass" Type="LVClass" URL="../ooWriter/ooWriter.lvclass"/>
 		<Item Name="test-simpleTextodtFile.vi" Type="VI" URL="../test-simpleTextodtFile.vi"/>

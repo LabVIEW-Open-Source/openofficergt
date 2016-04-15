@@ -1,6 +1,6 @@
-Open Office RGT addon v0.1.0 beta
+Open Office RGT addon v0.2.0 beta
 
-Copyright © 2010, François Normandin.
+Copyright © 2010-2016, François Normandin.
 All rights reserved.
 
 
@@ -48,12 +48,17 @@ AODL by Sun Microsystems, Inc. Copyright 2007
       
 History:
 
+v0.2.0: released on bitbucket (Git) for community
+
 v0.1.0: Initial release of the code. (LV2009)
 
 
 
 License:
-Distributed under the LGPL license.
+
+LabVIEW libraries of OpenOffice for RGT addon are licensed under BSD.
+AODL us distributed under the LGPL license.
+(see license files for more detail)
 
 
 Support:
