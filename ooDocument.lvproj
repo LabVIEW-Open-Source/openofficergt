@@ -27,7 +27,9 @@
 			<Item Name="Style_IsParagraphStyle.vi" Type="VI" URL="../AODL/Style/Style_IsParagraphStyle.vi"/>
 		</Item>
 		<Item Name="ooWriter.lvclass" Type="LVClass" URL="../ooWriter/ooWriter.lvclass"/>
+		<Item Name="ooCalc.lvclass" Type="LVClass" URL="../ooCalc/ooCalc.lvclass"/>
 		<Item Name="test-simpleTextodtFile.vi" Type="VI" URL="../test-simpleTextodtFile.vi"/>
+		<Item Name="test-simpleSpreadsheet.vi" Type="VI" URL="../test-simpleSpreadsheet.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_report.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Utility/NIReport.llb/NI_report.lvclass"/>
