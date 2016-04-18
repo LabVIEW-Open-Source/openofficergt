@@ -25,7 +25,9 @@
 			<Item Name="Document_GetCommonStyles.vi" Type="VI" URL="../AODL/Document/Document_GetCommonStyles.vi"/>
 			<Item Name="Document_GetStyleByName.vi" Type="VI" URL="../AODL/Document/Document_GetStyleByName.vi"/>
 			<Item Name="Style_IsParagraphStyle.vi" Type="VI" URL="../AODL/Style/Style_IsParagraphStyle.vi"/>
+			<Item Name="ExpandTableIfNeeded.vi" Type="VI" URL="../AODL/Table/ExpandTableIfNeeded.vi"/>
 		</Item>
+		<Item Name="ooDocument.lvclass" Type="LVClass" URL="../ooDocument/ooDocument.lvclass"/>
 		<Item Name="ooWriter.lvclass" Type="LVClass" URL="../ooWriter/ooWriter.lvclass"/>
 		<Item Name="ooCalc.lvclass" Type="LVClass" URL="../ooCalc/ooCalc.lvclass"/>
 		<Item Name="test-simpleTextodtFile.vi" Type="VI" URL="../test-simpleTextodtFile.vi"/>
